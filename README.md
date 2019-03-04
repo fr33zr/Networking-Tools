@@ -1,4 +1,10 @@
 # Networking-Tools
 Tools For The Web/Ethical Hacking
 
-Gimme.py
+Execute: Python3 gimme.py
+
+RE: Gimme.py
+
+The IPV4 address of the site you enter.
+
+For The Next Input, type the full path to the pages code you want returned.
