@@ -1,7 +1,19 @@
 # Networking-Tools
+# For this set of tools, there is a library reffered to as Mechanical Soup. This tool will not respond without Mechanical Soup.
+
+# Mechanical Soup install
+
+git clone https://github.com/MechanicalSoup/MechanicalSoup.git
+
+cd MechanicalSoup
+
+python3 setup.py install
+
+(if python3 setup.py install does not work, try it with sudo)
+
 Tools For The Web/Ethical Hacking
 
-Execute: Python3 gimme.py
+Execute: python3 gimme.py
 
 RE: Gimme.py
 
