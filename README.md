@@ -14,11 +14,19 @@ python3 setup.py install
 
 (if python3 setup.py install does not work, try it with sudo)
 
-# Tools For The Web/Ethical Hacking
+# Clone
 
-Execute: python3 gimme.py
+git clone https://github.com/fr33zr/Networking-Tools.git
 
-RE: Gimme.py
+# Usage
+
+Execute these below commands to use tool after cloning
+
+cd Networking-Tools
+
+python3 gimme.py
+
+# RE: Gimme.py
 
 Returns the IPV4 address of the site you enter.
 
