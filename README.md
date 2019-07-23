@@ -20,7 +20,7 @@ git clone https://github.com/fr33zr/Networking-Tools.git
 
 # Usage
 
-Execute these below commands to use tool after cloning
+Execute these below commands to use tool after cloning:
 
 cd Networking-Tools
 
