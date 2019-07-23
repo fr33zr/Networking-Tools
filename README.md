@@ -1,6 +1,6 @@
 # Networking-Tools
 
-For this set of tools, there is a library reffered to as Mechanical Soup.
+For this set of tools, there is a library referred to as Mechanical Soup.
 
 This tool will not respond without Mechanical Soup.
 
